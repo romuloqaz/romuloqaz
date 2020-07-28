@@ -1,4 +1,10 @@
-### Hi there 👋
+### Olá, visitante👋
+
+Meu nome é Romulo do Brasil (🇧🇷). Sou apaixonado por programação e entusiasta em javascript.
+
+Gosto de jogar (e assistir) futebol (⚽️), assistir filmes (🎞️) e séries (📺), ouvir música (🎵) e eventualmente gosto de uma cerveja (🍺).
+
+Como me encontrar?
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romulo-pereira-4394b11b3)](https://www.linkedin.com/in/romulo-pereira-4394b11b3)
 
