@@ -1,6 +1,6 @@
 ### Olá, visitante👋
 
-Meu nome é Romulo do Brasil (🇧🇷). Sou apaixonado por programação.
+Meu nome é Romulo. Sou apaixonado por programação.
 
 Gosto de jogar (e assistir) futebol ⚽️, assistir filmes 🎞️ e séries, música (🎵) e eventualmente gosto de uma cerveja 🍺.
 
