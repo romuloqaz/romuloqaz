@@ -2,7 +2,7 @@
 
 Meu nome é Romulo do Brasil (🇧🇷). Sou apaixonado por programação.
 
-Gosto de jogar (e assistir) futebol (⚽️), assistir filmes (🎞️) e séries (📺), ouvir música (🎵) e eventualmente gosto de uma cerveja (🍺).
+Gosto de jogar (e assistir) futebol ⚽️, assistir filmes 🎞️ e séries, música (🎵) e eventualmente gosto de uma cerveja 🍺.
 
 Como me encontrar?
 
